@@ -2,7 +2,6 @@
 
 ## 资料
 https://spring.io/guides
-https://spring.io/guides/gs/serving-web-content
-https://majiang.cn/explore
+https://spring.io/guides/gs/serving-web-contentwq
 
 ## 工具
